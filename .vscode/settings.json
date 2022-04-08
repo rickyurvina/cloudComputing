@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/66bae2f5-b92c-422b-912b-62e55604fd28/resourceGroups/UCN/providers/Microsoft.Web/sites/clouducn",
+    "appService.deploySubpath": "dist\\cloud-computing"
+}
